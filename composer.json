@@ -1,0 +1,15 @@
+{
+    "name": "noahd/readbean",
+    "autoload": {
+        "psr-4": {
+            "Noahd\\Readbean\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noziho",
+            "email": "noah.decroix3@gmail.com"
+        }
+    ],
+    "require": {}
+}
