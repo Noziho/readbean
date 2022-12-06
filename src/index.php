@@ -5,7 +5,7 @@ require '../vendor/autoload.php';
 use RedBeanPHP\R;
 use RedBeanPHP\RedException\SQL;
 
-R::setup('mysql:host=127.0.0.1;dbname=redbeantest', 'root', '');
+R::setup('mysql:host=localhost;dbname=beantest', 'root', '');
 
 $product = R::dispense('product');
 $product->productName = "Guitare électrique";
