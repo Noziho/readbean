@@ -11,5 +11,7 @@
             "email": "noah.decroix3@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "gabordemooij/redbean": "^5.7"
+    }
 }
